@@ -1,4 +1,4 @@
-sports360
+sportsntalk
 =========
 
-Sports 360 is a social application, for sports fans around the world.
+For all things sports
