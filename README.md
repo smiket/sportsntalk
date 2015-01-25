@@ -1,4 +1,4 @@
-sportsntalk
-=========
+Sports N Talk
+==========
 
-For all things sports
+A social application for sports fans.
