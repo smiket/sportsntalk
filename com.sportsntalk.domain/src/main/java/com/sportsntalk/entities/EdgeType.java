@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * Represents an edge type (post, like, share, comment etc).
+ * Represents an edge type (like, share etc).
  */
 @Entity
 @Table(name = "edge_type")

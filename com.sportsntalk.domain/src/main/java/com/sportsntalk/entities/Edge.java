@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * Represents a vertex in the social graph.
+ * Represents an edge in the social graph.
  */
 @Entity
 @Table(name = "edge")

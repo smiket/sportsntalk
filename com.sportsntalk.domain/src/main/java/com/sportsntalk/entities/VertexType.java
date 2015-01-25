@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * Represents a vertex type (user, picture, post etc).
+ * Represents a vertex type (post, comment etc).
  */
 @Entity
 @Table(name = "vertex_type")
